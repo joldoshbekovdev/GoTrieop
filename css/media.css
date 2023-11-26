@@ -1,0 +1,139 @@
+@media (max-width:768px){
+    .container{
+        width: 90%;
+    }
+    .hero img{
+        width: 300px;
+    }
+    .hero h1{
+       
+    font-size: 25px;
+    
+    }
+    .hero p{
+        font-size: 15px;
+    }
+    .btn-1{
+        width: 185px;
+        height: 40px;
+       
+        border-radius: 15px;
+        
+        font-size: 12px;
+        
+        }
+    .header button{
+        width: 108px;
+    height: 40px;
+    font-size: 13px;
+    
+    }
+    .header a{
+        display: none;
+    }
+    .btn-2{
+        width: 150px;
+        height: 51px;
+        font-size: 14px;
+    }
+    .hero{
+        
+        gap: 30px;
+    }
+    .section .nav1 {
+        width: 346px;
+        height: 429px;
+         margin: 0 -10px;
+    }
+    .section h1{
+        font-size: 25px;
+    }
+    .logo{
+        width: 70px;
+        height: 70px;
+        
+        border-radius: 50%;
+        
+    }
+    .logo img{
+        width: 90%;
+        
+    }
+    .avatar h5{
+    
+    font-size: 23px;
+   
+    }
+    .avatar h6{
+    
+    font-size: 15px;
+    
+    
+    }
+    .section p{
+        
+        font-size: 15px;
+        
+        }
+        .deplay{
+            
+            gap: 30px;
+            padding-top: 30px;
+        }
+        .section{
+            
+            gap: 40px;
+            }
+            .blok{
+                width: 640px;
+            height: 281px;
+            
+            
+            
+            }
+            .to-but h1{
+            font-size: 25px;
+             }
+             .to-but p{
+                font-size: 20px;
+                }
+                .to-but button{
+                    width: 125px;
+                    height: 59px;
+                    border-radius: 27px;
+                    font-size: 13px;
+            }
+                    .to-but{
+                        gap: 20px;
+                    }
+                    .section-end h1{
+                font-size: 35px;
+                        
+                    }
+            .nav{
+                width: 400px;
+                height: 65px;
+                font-size: 14px;
+            }
+            .email button{
+                width: 150px;
+                height: 55px;
+                font-size: 14px;
+                right: 170px;
+            }
+
+            .footer a{
+                display: none;
+            }
+            .footer button{
+                width: 90px;
+            height: 39px;
+           
+            font-size: 10px;
+                 
+}
+.color1{
+    width: 40px;
+}
+
+}
