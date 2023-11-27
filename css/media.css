@@ -1,12 +1,12 @@
-@media (max-width:768px){
+@media (max-width:576px){
     .container{
         width: 90%;
     }
     .hero img{
-        width: 300px;
+        width: 200px;
     }
     .hero h1{
-       
+        
     font-size: 25px;
     
     }
@@ -41,16 +41,16 @@
         gap: 30px;
     }
     .section .nav1 {
-        width: 346px;
+        width: 220px;
         height: 429px;
          margin: 0 -10px;
     }
     .section h1{
-        font-size: 25px;
+        font-size: 15px;
     }
     .logo{
-        width: 70px;
-        height: 70px;
+        width: 35px;
+        height: 35px;
         
         border-radius: 50%;
         
@@ -61,31 +61,31 @@
     }
     .avatar h5{
     
-    font-size: 23px;
+    font-size: 13px;
    
     }
     .avatar h6{
     
-    font-size: 15px;
+    font-size: 10px;
     
     
     }
     .section p{
         
-        font-size: 15px;
+        font-size: 10px;
         
         }
         .deplay{
             
-            gap: 30px;
-            padding-top: 30px;
+            gap: 20px;
+            padding-top: 100px;
         }
         .section{
             
             gap: 40px;
             }
             .blok{
-                width: 640px;
+                width: 440px;
             height: 281px;
             
             
@@ -111,15 +111,15 @@
                         
                     }
             .nav{
-                width: 400px;
-                height: 65px;
-                font-size: 14px;
+                width: 300px;
+                height: 75px;
+                font-size: 20px;
             }
             .email button{
                 width: 150px;
                 height: 55px;
                 font-size: 14px;
-                right: 170px;
+                right: 120px;
             }
 
             .footer a{
@@ -133,7 +133,8 @@
                  
 }
 .color1{
-    width: 40px;
+    width: 20px;
 }
 
 }
+
